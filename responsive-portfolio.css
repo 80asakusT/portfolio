@@ -1,0 +1,7 @@
+@import "portfolio.css";
+
+@media (max-width:768px){
+    .container{
+        max-width:768px;
+    }
+}
