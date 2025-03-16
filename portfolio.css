@@ -160,7 +160,7 @@ header p {
   margin-top: 88px;
   padding: 50px 0;
   width: 100%;
-  background-image: url(https://s3-alpha-sig.figma.com/img/25d6/1508/852586744396627781d9d871916bedf7?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=LmYwSuoYVBA-pejJvDqPFZSLhVudusVifIMHzcJmdpByBGyTuU8jtRwYCiTFlzDS8Y7OY6o9J8yzbo2EkgbM0PzlpMfasqj9ASh0R9gmpMp4OFVGsZJJsFzZh1HeAsgd9x0kIXlK~T5vBgyN1PyLI1E7II1zZc7N84D~8SrOk-dqQwMgk6r-b17Lkf3f6c0wxj8nNZYnpWZPluFdxz56CcRwvYhK9jbFRYxTza1InrM6fRM6UqpBEAMxJM2XVdmLonVicXM8HEk9B1AILDrmF1RYOfKmW3GEuFpixHGT~XNdQtsVxVKo-TDLgXSd6ySaJ-b7Lvjva6QcFFnJp~ZUaw__);
+  background-image: url(proj-img/intro-bgr.png);
   background-size: cover;
   background-position: center;
 }
@@ -291,7 +291,7 @@ header p {
 
 .hobby {
   height: auto;
-  background-image: url(https://s3-alpha-sig.figma.com/img/6c0a/0d9f/50c539627cf41e21b1f7d3dcd41499a5?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=WRwCzIeXX4BtTa4kp6PyfQesTCQSTJ-1rUdl9czSyiL8cCmXKwQt5RY05wGm0qKjX38ftrCJxT4zp-h25~LLFkeIQoxQFwm42Ka~ziohXVmqmHJ4jR8N-yUSAv7y6RB7QjOxFnlYLAyvo3doI20avzHCl4vZg~FOkaNlNwhVNN0mMFLxIZ~HE-z6i8d~vGM0T0rG-xiCPrBZcdTGw~2wQZWBy8CwwhqVBQ9SNt8EI~sfW6mMg4tSHdrlSD707umQ02oPgBmjPCct2iZ3VFKbMxfi-YexdyO-RwAADIYklLMp~QliUIFlPrc~Ci5Xcn~Fpdf12qABSvdpnJAdFygkCQ__);
+  background-image: url(proj-img/hobby-bgr.png);
   background-size: cover;
   background-position: center;
 }
@@ -395,7 +395,7 @@ span ~ p,
 
 .news {
   height: 1018px;
-  background-image: url(https://s3-alpha-sig.figma.com/img/e67d/4c66/c416297987adbddff762809ff506087b?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rKqeynhM4Ck0Z~5Wx~eqDliTLAY7r1eF4tfjWPrDJL9Nz27uI3mqBH0Fsa3l1e7SUlaJwN~IvokLPlOikFY4ihZrqk23LJMnHYNBg~PMyqEWdU4peFPhEdHDFaQFrtmNbEdNNfdEfwifFe4TtdgY6MCpn82a8I12aBWo6P~0jtD8kELMhG-9jnQhTgyDIj2vh6FBNb4U1iUNLkGmWRv-YcQHRdHdBYVhhhD2MYakN6nopq7v6nAyAGxjb0HNmi4NRXpaSN3~EwWz3vLquYW3bbJXN8Sb7OYQoc5T-SeXEVwBXkURYwY-hyrkMPAinB-uWOrJWs~0TupRXGtfqhD4dA__);
+  background-image: url(proj-img/news-bgr.png);
   background-size: cover;
   background-position: center;
 }
