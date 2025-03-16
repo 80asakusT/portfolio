@@ -394,7 +394,7 @@ span ~ p,
 /* NEWS */
 
 .news {
-  height: 1018px;
+  height: auto;
   background-image: url(proj-img/news-bgr.png);
   background-size: cover;
   background-position: center;
