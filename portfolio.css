@@ -72,9 +72,13 @@ button {
   cursor: pointer;
 }
 
+.hover-purple{
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+}
+
 .hover-purple:hover{
   background-color: var(--primary-color);
-  transition-duration: 1s;
 }
 
 .container {
@@ -130,6 +134,11 @@ header p {
 #left p {
   display: inline-block;
   margin: 0 5px;
+}
+
+#left img{
+  width: 48px;
+  height: 48px;
 }
 
 #right {
@@ -477,6 +486,7 @@ span ~ p,
   /* height: 500px!important; */
   margin-bottom: 48px;
 }
+
 /* CONTACT */
 
 .contact {
@@ -555,11 +565,58 @@ input::placeholder, textarea::placeholder{
 /* FOOTER */
 
 footer {
-  height: 406px;
+  height: auto;
   background-color: #381a7f;
+  color: var(--third-color);
+  padding-top: 64px;
+}
+
+#footer-logo{
+  display: flex;
+  justify-content: center;
+}
+
+#footer-logo img{
+  width: 80px;
+  height: 80px;
+}
+
+footer h5{
+  text-align: center;
+  margin: 12px 0;
+}
+
+footer i{
+  color: var(--third-color);
+  font-size: 3.2rem;
+  margin: 0 16px;
+}
+
+#footer-icon{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 64px;
+}
+
+#copyright{
+  border-top: 1px solid #6F34FE;
+}
+
+footer p{
+  text-align: center;
+  font-size: 1.6rem;
+  padding: 22px 0;
+  color: #919EAB;
+  font-weight: 400;
 }
 
 
+
+
+
+
+/* --- */
 
 #arrow{
   height: 48px;
